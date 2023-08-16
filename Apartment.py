@@ -1,4 +1,3 @@
-# Lab06, CS9, Nick Lee-Roller
 class Apartment:
     def __init__(self, rent, metersFromUCSB, condition):
         self.rent = rent
